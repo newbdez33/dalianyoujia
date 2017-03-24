@@ -85,7 +85,7 @@ a:focus{
 	padding-top: 16%;
 }
 .header-text.btn{
-	border: 1px solid #ffffff;
+	border: 0px solid #ffffff;
 	border-radius: 0;
 	padding: 10px 30px;
 	height: 100px;
